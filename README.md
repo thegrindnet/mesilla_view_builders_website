@@ -1,16 +1,165 @@
-# React + Vite
+# Mesilla View Builders Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive website built for **Mesilla View Builders**, a construction company focused on quality craftsmanship, residential construction, remodeling, and commercial projects.
 
-Currently, two official plugins are available:
+This website provides a professional online presence for the company, showcasing services, completed projects, company information, and contact details in a clean and user-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Modern and responsive design
+- Mobile-first user experience
+- Project gallery showcase
+- Services section
+- About Us section
+- Contact form
+- Fast loading performance
+- SEO-friendly structure
+- Clean and maintainable React components
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Built With
+
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Responsive Design Principles
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+├── components/
+├── pages/
+├── assets/
+│   ├── images/
+│   └── icons/
+├── styles/
+├── App.js
+└── index.js
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/thegrindnet/mesilla_view_builders_website.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd mesilla_view_builders_website
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+---
+
+## ▶️ Running the Project
+
+Start the development server:
+
+```bash
+npm start
+```
+
+The application will run at:
+
+```text
+http://localhost:3000
+```
+
+---
+
+## 📦 Build for Production
+
+Create an optimized production build:
+
+```bash
+npm run build
+```
+
+The production files will be generated in the `build` folder.
+
+---
+
+## 🎨 Website Sections
+
+### Home
+
+Introduces the company and highlights its value proposition.
+
+### Services
+
+Displays the construction and remodeling services offered.
+
+### Project Gallery
+
+Showcases completed projects and workmanship.
+
+### About Us
+
+Provides company background and mission.
+
+### Contact
+
+Allows potential clients to reach out for estimates and inquiries.
+
+---
+
+## 📱 Responsive Design
+
+The website is optimized for:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile devices
+
+---
+
+## 🔮 Future Improvements
+
+- Online estimate request form
+- Customer testimonials section
+- Interactive project filtering
+- Blog/news section
+- Google Maps integration
+- CMS integration for easier content management
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+Feel free to fork the repository and submit a pull request.
+
+---
+
+## 👨‍💻 Author
+
+**David Bonilla**
+
+GitHub: https://github.com/thegrindnet
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+Feel free to use, modify, and distribute this project according to the license terms.
