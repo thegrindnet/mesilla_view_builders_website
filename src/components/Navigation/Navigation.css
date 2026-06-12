@@ -1,0 +1,21 @@
+.nav {
+  display: flex;
+  gap: 28px;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.nav a {
+  opacity: 0.85;
+}
+
+.nav a:hover {
+  opacity: 1;
+  color: #f5a623;
+}
+
+@media (max-width: 900px) {
+  .nav {
+    display: none;
+  }
+}

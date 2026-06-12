@@ -1,0 +1,36 @@
+.about {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  align-items: center;
+  padding: 95px 7%;
+  background: white;
+}
+
+.about__image {
+  min-height: 570px;
+  border-radius: 34px;
+  background: url("https://images.unsplash.com/photo-1605152276897-4f618f831968?auto=format&fit=crop&w=1200&q=80")
+    center/cover;
+}
+
+.about ul {
+  display: grid;
+  gap: 14px;
+  margin: 28px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.about li {
+  padding: 16px 18px;
+  border-radius: 16px;
+  background: #f4f1ec;
+  font-weight: 700;
+}
+
+@media (max-width: 900px) {
+  .about {
+    grid-template-columns: 1fr;
+  }
+}

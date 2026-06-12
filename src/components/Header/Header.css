@@ -1,0 +1,39 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 7%;
+  background: rgba(20, 20, 20, 0.78);
+  color: white;
+  backdrop-filter: blur(14px);
+}
+
+.header__logo {
+  display: flex;
+  align-items: center;
+  font-size: 1.4rem;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+}
+
+.header__logo-image {
+  height: 75px;
+  aspect-ratio: 1;
+  padding: 10px;
+}
+
+.logo span,
+.eyebrow {
+  color: #f5a623;
+}
+
+@media (max-width: 900px) {
+  .header {
+    position: absolute;
+  }
+}
