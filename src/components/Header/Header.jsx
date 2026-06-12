@@ -11,7 +11,7 @@ function Header() {
           src={logoImage}
           alt="Mesilla View Builders Logo"
         />
-        Mesilla View Builders LLC
+        MESILLA VIEW BUILDER LLC
       </a>
       <Navigation />
     </header>

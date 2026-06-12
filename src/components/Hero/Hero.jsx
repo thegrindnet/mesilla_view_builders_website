@@ -30,7 +30,7 @@ function Hero() {
         </div>
         <div>
           <p>Years Experience</p>
-          <strong>15+</strong>
+          <strong>30+</strong>
         </div>
         <div>
           <p>Client Satisfaction</p>
