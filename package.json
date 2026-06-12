@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://thegrindnet.github.io/mesilla_view_builders_website/",
+  "homepage": "https://thegrindnet.github.io",
   "scripts": {
     "dev": "vite --open",
     "build": "vite build",
