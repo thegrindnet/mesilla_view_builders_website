@@ -5,6 +5,9 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   base: "/mesilla_view_builders_website/",
+  build: {
+    outDir: "docs",
+  },
   server: {
     port: 3000,
   },
