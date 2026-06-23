@@ -39,7 +39,7 @@ export const galleryItems = [
     url: new URL("../assets/house_1.webp", import.meta.url).href,
   },
   {
-    title: "Custom Kitchen Remodel",
+    title: "Luxury Kitchen Design & Build",
     category: "Residential",
     url: new URL("../assets/remodel_1.webp", import.meta.url).href,
   },
@@ -51,6 +51,6 @@ export const galleryItems = [
   {
     title: "Complete Home Renovation",
     category: "Residential",
-    url: new URL("../assets/house_1.webp", import.meta.url).href,
+    url: new URL("../assets/kitchen_9.webp", import.meta.url).href,
   },
 ];

@@ -7,8 +7,7 @@
   padding: 150px 7% 90px;
   color: white;
   background: linear-gradient(90deg, rgba(0, 0, 0, 0.86), rgba(0, 0, 0, 0.45)),
-    url("https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1800&q=80")
-      center/cover;
+    url("../../assets/kitchen_4.webp") center/cover;
 }
 
 .hero h1 {
