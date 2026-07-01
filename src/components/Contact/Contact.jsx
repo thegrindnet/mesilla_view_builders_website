@@ -9,7 +9,7 @@ function Contact() {
         Contact us today for a free estimate on your next construction,
         remodeling, or commercial project.
       </p>
-      <a className="btn btn--primary" href="tel:5750000000">
+      <a className="btn btn--primary" href="tel:5756189553">
         Call (575) 618-9553
       </a>
     </section>
