@@ -10,7 +10,7 @@ function Contact() {
         remodeling, or commercial project.
       </p>
       <a className="btn btn--primary" href="tel:5756189553">
-        Call (575) 618-9553
+        Call or Text (575) 618-9553
       </a>
     </section>
   );

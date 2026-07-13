@@ -1,0 +1,6 @@
+RewriteEngine On
+
+# Use www as the canonical hostname.
+RewriteCond %{HTTP_HOST} ^mesillaviewbuilders\.com$ [NC]
+RewriteRule ^ https://www.mesillaviewbuilders.com%{REQUEST_URI} [R=301,L,NE]
+
