@@ -9,6 +9,7 @@
 
 .about__image1 {
   min-height: 570px;
+  max-width: 430px;
   border-radius: 34px;
   object-position: top;
   background: url("../../assets/about-us.jpeg") center/cover;
