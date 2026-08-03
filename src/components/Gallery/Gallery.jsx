@@ -14,8 +14,8 @@ function Gallery() {
           <article className="gallery-card" key={item.title}>
             <img src={item.url} alt={item.title} />
             <div className="gallery-card__content">
-              <span>{item.category}</span>
-              <h3>{item.title}</h3>
+              {/* <span>{item.category}</span>
+              <h3>{item.title}</h3> */}
             </div>
           </article>
         ))}

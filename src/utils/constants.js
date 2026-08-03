@@ -14,13 +14,13 @@ export const galleryItems = [
     url: new URL("../assets/bathroom_1.webp", import.meta.url).href,
   },
   {
-    title: "",
-    category: "",
+    title: "Luxuary Walk-In Shower",
+    category: "Residential",
     url: new URL("../assets/bathroom_2.webp", import.meta.url).href,
   },
   {
-    title: "",
-    category: "",
+    title: "Brown cabinets with sink",
+    category: "Bathroom",
     url: new URL("../assets/bathroom_3.webp", import.meta.url).href,
   },
   {
@@ -34,8 +34,8 @@ export const galleryItems = [
     url: new URL("../assets/kitchen_1.webp", import.meta.url).href,
   },
   {
-    title: "",
-    category: "",
+    title: "Corner shower",
+    category: "Bathroom",
     url: new URL("../assets/bathroom_7.webp", import.meta.url).href,
   },
   {
@@ -54,27 +54,27 @@ export const galleryItems = [
     url: new URL("../assets/house_1.webp", import.meta.url).href,
   },
   {
-    title: "",
-    category: "",
+    title: "Bathroom with soaking tub",
+    category: "Bathroom",
     url: new URL("../assets/bathroom_4.webp", import.meta.url).href,
   },
   {
-    title: "",
-    category: "",
+    title: "Bathroom with soaking tub different angle",
+    category: "Bathroom",
     url: new URL("../assets/bathroom_5.webp", import.meta.url).href,
   },
   {
-    title: "",
-    category: "",
+    title: "Green cabinets",
+    category: "Bathroom",
     url: new URL("../assets/bathroom_6.webp", import.meta.url).href,
   },
   {
-    title: "",
-    category: "",
+    title: "Bedroom with barn doors",
+    category: "Bedroom",
     url: new URL("../assets/bedroom_4.webp", import.meta.url).href,
   },
   {
-    title: "",
+    title: "Kitchen with white cabinets",
     category: "Residential",
     url: new URL("../assets/kitchen_9.webp", import.meta.url).href,
   },
@@ -82,6 +82,21 @@ export const galleryItems = [
     title: "Luxury Kitchen Design & Build",
     category: "Residential",
     url: new URL("../assets/remodel_1.webp", import.meta.url).href,
+  },
+  {
+    title: "Kitchen stove top",
+    category: "Residential",
+    url: new URL("../assets/kitchen_5.webp", import.meta.url).href,
+  },
+  {
+    title: "Kitchen with blue cabinets",
+    category: "Residential",
+    url: new URL("../assets/kitchen_6.webp", import.meta.url).href,
+  },
+  {
+    title: "Kitchen other side",
+    category: "Residential",
+    url: new URL("../assets/kitchen_7.webp", import.meta.url).href,
   },
   {
     title: "Office Build-Out Project",
@@ -97,5 +112,20 @@ export const galleryItems = [
     title: "Kitchen with blue cabinets and pantry door",
     category: "Kitchen",
     url: new URL("../assets/kitchen_3.webp", import.meta.url).href,
+  },
+  {
+    title: "Kitchen with beautiful refrigerator",
+    category: "Kitchen",
+    url: new URL("../assets/kitchen_4.webp", import.meta.url).href,
+  },
+  {
+    title: "Living room with blue pillows",
+    category: "Living Room",
+    url: new URL("../assets/livingroom_1.webp", import.meta.url).href,
+  },
+  {
+    title: "Living room with green pillows",
+    category: "Living Room",
+    url: new URL("../assets/livingroom_2.jpg", import.meta.url).href,
   },
 ];
