@@ -7,10 +7,10 @@
   background: white;
 }
 
-.about__image {
+.about__image1 {
   min-height: 570px;
   border-radius: 34px;
-  background: url("../../assets/bathroom_8.webp") center/cover;
+  background: url("../../assets/about-us.jpeg") center/cover;
 }
 
 .about ul {
