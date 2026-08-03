@@ -14,6 +14,16 @@ export const galleryItems = [
     url: new URL("../assets/bathroom_1.webp", import.meta.url).href,
   },
   {
+    title: "",
+    category: "",
+    url: new URL("../assets/bathroom_2.webp", import.meta.url).href,
+  },
+  {
+    title: "",
+    category: "",
+    url: new URL("../assets/bathroom_3.webp", import.meta.url).href,
+  },
+  {
     title: "Open Concept Living Space",
     category: "Residential",
     url: new URL("../assets/large_bedroom_1.webp", import.meta.url).href,
@@ -22,6 +32,11 @@ export const galleryItems = [
     title: "Custom Kitchen Remodel",
     category: "Residential",
     url: new URL("../assets/kitchen_1.webp", import.meta.url).href,
+  },
+  {
+    title: "",
+    category: "",
+    url: new URL("../assets/bathroom_7.webp", import.meta.url).href,
   },
   {
     title: "Master Bedroom Renovation",
@@ -39,6 +54,31 @@ export const galleryItems = [
     url: new URL("../assets/house_1.webp", import.meta.url).href,
   },
   {
+    title: "",
+    category: "",
+    url: new URL("../assets/bathroom_4.webp", import.meta.url).href,
+  },
+  {
+    title: "",
+    category: "",
+    url: new URL("../assets/bathroom_5.webp", import.meta.url).href,
+  },
+  {
+    title: "",
+    category: "",
+    url: new URL("../assets/bathroom_6.webp", import.meta.url).href,
+  },
+  {
+    title: "",
+    category: "",
+    url: new URL("../assets/bedroom_4.webp", import.meta.url).href,
+  },
+  {
+    title: "",
+    category: "Residential",
+    url: new URL("../assets/kitchen_9.webp", import.meta.url).href,
+  },
+  {
     title: "Luxury Kitchen Design & Build",
     category: "Residential",
     url: new URL("../assets/remodel_1.webp", import.meta.url).href,
@@ -49,8 +89,13 @@ export const galleryItems = [
     url: new URL("../assets/office_1.webp", import.meta.url).href,
   },
   {
-    title: "Complete Home Renovation",
-    category: "Residential",
-    url: new URL("../assets/kitchen_9.webp", import.meta.url).href,
+    title: "Kitchen with blue cabinets and appliances",
+    category: "Kitchen",
+    url: new URL("../assets/kitchen_2.webp", import.meta.url).href,
+  },
+  {
+    title: "Kitchen with blue cabinets and pantry door",
+    category: "Kitchen",
+    url: new URL("../assets/kitchen_3.webp", import.meta.url).href,
   },
 ];
